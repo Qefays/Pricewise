@@ -1,0 +1,6 @@
+streamlit==1.64.0
+pandas==3.0.5
+altair==6.3.0
+pyarrow==25.0.1
+folium==0.20.0
+streamlit-folium==0.27.4

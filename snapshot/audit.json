@@ -1,0 +1,90 @@
+{
+  "Source observations": 17518525,
+  "Invalid rows": 0,
+  "Duplicate-key rows quarantined": 0,
+  "Unmapped product rows": 271105,
+  "Unmapped premise rows": 118,
+  "Eligible observations": 17247302,
+  "Observed product codes": 353,
+  "Observed premises": 2246,
+  "File coverage": [
+    {
+      "File": "pricecatcher_2026-01.csv",
+      "Rows": 1976483,
+      "First date": "2026-01-01",
+      "Last date": "2026-01-31",
+      "Observed days": 31
+    },
+    {
+      "File": "pricecatcher_2026-02.csv",
+      "Rows": 1369552,
+      "First date": "2026-02-01",
+      "Last date": "2026-02-28",
+      "Observed days": 25
+    },
+    {
+      "File": "pricecatcher_2026-03.csv",
+      "Rows": 1547695,
+      "First date": "2026-03-01",
+      "Last date": "2026-03-31",
+      "Observed days": 25
+    },
+    {
+      "File": "pricecatcher_2026-04.csv",
+      "Rows": 1785221,
+      "First date": "2026-04-01",
+      "Last date": "2026-04-30",
+      "Observed days": 30
+    },
+    {
+      "File": "pricecatcher_2026-05.csv",
+      "Rows": 1717713,
+      "First date": "2026-05-02",
+      "Last date": "2026-05-31",
+      "Observed days": 29
+    },
+    {
+      "File": "pricecatcher_2026-06.csv",
+      "Rows": 1763560,
+      "First date": "2026-06-02",
+      "Last date": "2026-06-30",
+      "Observed days": 27
+    },
+    {
+      "File": "pricecatcher_2026-07.csv",
+      "Rows": 1815849,
+      "First date": "2026-07-01",
+      "Last date": "2026-07-31",
+      "Observed days": 31
+    },
+    {
+      "File": "pricecatcher_2026-08.csv",
+      "Rows": 1933285,
+      "First date": "2026-08-01",
+      "Last date": "2026-08-30",
+      "Observed days": 29
+    },
+    {
+      "File": "pricecatcher_2026-09.csv",
+      "Rows": 1742320,
+      "First date": "2026-09-01",
+      "Last date": "2026-09-29",
+      "Observed days": 28
+    },
+    {
+      "File": "pricecatcher_2026-10.csv",
+      "Rows": 1279987,
+      "First date": "2026-10-10",
+      "Last date": "2026-10-29",
+      "Observed days": 20
+    },
+    {
+      "File": "pricecatcher_2026-11.csv",
+      "Rows": 586860,
+      "First date": "2026-11-01",
+      "Last date": "2026-11-07",
+      "Observed days": 7
+    }
+  ],
+  "Unmapped product codes": "2023, 2035, 2048, 2053, 2057, 2059, 2089, 2090, 2091, 2092, 2093, 2094, 2095, 2096"
+}
